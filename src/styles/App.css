@@ -1,0 +1,14 @@
+.app {
+    display: flex;
+    height: 100vh;
+  }
+  
+  .main {
+    flex: 1;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #f4f4f4;
+    overflow-y: auto;
+  }
+  
+  
